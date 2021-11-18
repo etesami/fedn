@@ -1,0 +1,11 @@
+network_id: fedn-test-network
+controller:
+    discover_host: fedn-reducer
+    discover_port: 8090
+    token: token
+
+combiner:
+    name: fedn-combiner
+    host: fedn-combiner
+    port: 12080
+    max_clients: 30

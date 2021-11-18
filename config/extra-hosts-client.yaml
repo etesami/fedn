@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+   client:
+     extra_hosts:
+        fedn-reducer: 10.30.72.11
+        fedn-combiner: 10.30.72.12
+        fedn-clinet1: 10.30.72.13
+        fedn-clinet2: 10.30.72.14
+        fedn-clinet3: 10.30.72.15
+        fedn-clinet4: 10.30.72.16
+        fedn-clinet5: 10.30.72.17
+        fedn-clinet6: 10.30.72.18
+        fedn-clinet7: 10.30.72.19
+        
+
